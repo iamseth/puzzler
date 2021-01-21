@@ -2,7 +2,7 @@
 
 Quick script to read in a Chess PGN file and find blunders during the game.
 
-If a blunder is detected, the position, the bad move that was made during the game, and the engine's list of better moves are listed.
+If a blunder is detected, the position, the bad move that was made during the game, and the engine's list of better moves are given.
 
 Additionally, a link to an analysis board on Chess.com is provided. Maybe I'll make my own UI at some point using https://chessboardjs.com
 
