@@ -1,0 +1,43 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.30"]
+[Round "-"]
+[White "EtaiCzopp"]
+[Black "iamsethmiller"]
+[Result "1-0"]
+[CurrentPosition "2kr3r/N4pp1/4b1qp/P1ppp3/8/3P3P/2PQNPPK/R4R2 b - - 0 22"]
+[Timezone "UTC"]
+[ECO "C24"]
+[ECOUrl "https://www.chess.com/openings/Bishops-Opening-Berlin-Defense-3.d3-Nc6"]
+[UTCDate "2020.12.30"]
+[UTCTime "17:55:59"]
+[WhiteElo "1262"]
+[BlackElo "1306"]
+[TimeControl "1/86400"]
+[Termination "EtaiCzopp won by resignation"]
+[StartTime "17:55:59"]
+[EndDate "2021.01.03"]
+[EndTime "20:24:08"]
+[Link "https://www.chess.com/game/daily/297660452"]
+
+1. e4 {[%clk 23:46:23][%c_effect e4;square;e4;type;Book]} 1... e5 {[%clk
+23:36:05]} 2. Bc4 {[%clk 22:12:55]} 2... Nf6 {[%clk 23:51:06]} 3. d3 {[%clk
+14:37:56]} 3... Nc6 {[%clk 13:07:48]} 4. Bg5 {[%clk 23:22:30]} 4... h6 {[%clk
+23:49:54]} 5. Bxf6 {[%clk 23:46:50]} 5... Qxf6 {[%clk 23:42:46]} 6. Ne2 {[%clk
+23:53:08]} 6... Bc5 {[%clk 23:58:45]} 7. O-O {[%clk 23:56:28]} 7... d6 {[%clk
+23:57:09]} 8. h3 {[%clk 23:45:05]} 8... Qg5 {[%clk 22:10:52]} 9. Qd2 {[%clk
+12:31:17]} 9... Qg6 {[%clk 15:45:34]} 10. Kh2 {[%clk 22:48:40]} 10... Be6 {[%clk
+21:58:17]} 11. Bb5 {[%clk 12:45:19]} 11... O-O-O {[%clk 22:25:11]} 12. Bxc6
+{[%clk 23:37:57]} 12... bxc6 {[%clk 15:54:39]} 13. b4 {[%clk 23:24:03]} 13...
+Bb6 {[%clk 23:55:25]} 14. a4 {[%clk 23:00:24]} 14... a5 {[%clk 18:50:35]} 15.
+bxa5 {[%clk 17:29:19]} 15... Ba7 {[%clk 23:49:31]} 16. a6 {[%clk 23:48:15]}
+16... c5 {[%clk 23:54:42]} 17. Nbc3 {[%clk 23:57:00]} 17... c6 {[%clk 23:58:53]}
+18. a5 {[%clk 23:55:06]} 18... d5 {[%clk 23:54:04]} 19. exd5 {[%clk 21:09:40]}
+19... cxd5 {[%clk 14:42:08]} 20. Nb5 {[%clk 23:50:01]} 20... Bb8 {[%clk
+23:55:04]} 21. a7 {[%clk 23:59:29]} 21... Bxa7 {[%clk 23:09:10]} 22. Nxa7+
+{[%clk 23:39:05][%c_effect a7;square;a7;type;BestMove][%c_arrow
+b5a7;color;#96be46;opacity;0.95;from;b5;to;a7][%c_square
+b5;color;#9eba5a;opacity;0.5;square;b5,a7;color;#9eba5a;opacity;0.5;square;a7]
+<br /><br />Game may have continued...} (22. Nxa7+ {[%c_effect
+h2;square;h2;type;Winner,c8;square;c8;type;ResignBlack]} 22... Kd7 23. Qc3 Bxh3
+24. gxh3 Rb8 25. Qxc5 Qd6 {+8.78}) 1-0
